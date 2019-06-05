@@ -70,12 +70,7 @@ h2{
 @media all and (max-width: 1500px) {
 
 
-  .horiz1 {
-    width: 50%;
-  }
-  .vert1 {
-    width: 50%;
-  }
+  
   div{
     margin-top: 50px;
     margin-bottom: 100px;
