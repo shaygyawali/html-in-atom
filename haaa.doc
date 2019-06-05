@@ -1,0 +1,21 @@
+.horiz1{
+  height: 125px;
+  width: 200px;
+  object-fit: cover;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  border: 2px solid black;
+   margin: 10px 30px 10px;
+}
+#farleft{
+  margin-left: 200px;
+}
+
+
+
+<img class="horiz1" id="farleft" src="./assets/e1.jpg" alt="Dr. Katie Bouman">
+<img class="horiz1" src="./assets/e2.jpg" alt="everyone 2">
+sssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
