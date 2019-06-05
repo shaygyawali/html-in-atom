@@ -63,3 +63,23 @@ h2{
 #farrightl{
   margin-right: 175px;
 }
+
+
+@media all and (max-width: 1047px) {
+  .horiz1 {
+    width: 90%;
+  }
+  .vert1 {
+    width: 90%;
+  }
+
+}
+
+@media all and (max-width: 767px) {
+  .horiz1 {
+    width: 95%;
+  }
+  .vert1 {
+    width: 95%;
+  }
+}
