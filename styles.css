@@ -63,19 +63,3 @@ h2{
 #farrightl{
   margin-right: 175px;
 }
-
-
-
-
-@media all and (max-width: 750px) {
-
-
-
-  div{
-    margin-top: 50px;
-    margin-bottom: 100px;
-    margin-left: 100px;
-    padding-top: 20px;
-    margin-right: 100px;
-  }
-}
