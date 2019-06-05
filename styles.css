@@ -70,11 +70,12 @@ h2{
 @media all and (max-width: 1500px) {
 
 
-  
+
   div{
     margin-top: 50px;
     margin-bottom: 100px;
-    margin-left: 300px;
+    margin-left: 100px;
     padding-top: 20px;
+    margin-right: 100px;
   }
 }
