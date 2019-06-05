@@ -6,9 +6,9 @@
 
 div{
   margin-top: 50px;
-  margin-bottom: 100px;
-  margin-left: 100px;
-  padding-top: 20px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
 
 }
 h2{
@@ -27,39 +27,39 @@ h2{
 
 .horiz1{
   image
-  height: 125px;
-  width: 200px;
+  height: 25px;
+  width: 40px;
   object-fit: cover;
   padding-bottom: 0px;
   padding-left: 0px;
   padding-right: 0px;
   padding-top: 0px;
   border: 3px solid BLACK;
-  margin: 10px 30px 10px;
+  margin: 2px 6px 2px;
   box-shadow: 5px 5px 15px YELLOW;
 
 }
 #farleft{
-  margin-left: 200px;
+  margin-left: 40px;
 }
 #farright{
-  margin-right: 150px;
+  margin-right: 30px;
 }
 .vert1{
-  height: 200px;
-  width: 150px;
+  height: 40px;
+  width: 30px;
   object-fit: cover;
   padding-bottom: 0px;
   padding-left: 0px;
   padding-right: 0px;
   padding-top: 0px;
   border: 3Px solid BLACK;
-  margin: 10px 55px 10px;
+  margin: 2px 11px 2px;
   box-shadow: 5px 5px 7px bLACK;
 }
 #farleftl{
-  margin-left: 225px;
+  margin-left: 45px;
 }
 #farrightl{
-  margin-right: 175px;
+  margin-right: 35px;
 }
