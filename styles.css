@@ -19,7 +19,7 @@ h2{
   margin-left: 200px;
   margin-right: 325px;
   border: 3px solid black;
-  box-shadow: 5px 5px 7px bLACK;
+  box-shadow: 3px 3px 4px bLACK;
 
 }
 
@@ -32,9 +32,9 @@ h2{
   padding-left: 0px;
   padding-right: 0px;
   padding-top: 0px;
-  border: 3px solid BLACK;
+  border: 1px solid BLACK;
   margin: 10px 30px 10px;
-  box-shadow: 5px 5px 15px YELLOW;
+  box-shadow: 3px 3px 7px YELLOW;
 
 }
 #farleft{
